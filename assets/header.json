@@ -1,9 +1,10 @@
 {
-  "name"  : "Adolfo Centeno",
-  "email" : "adsoft@live.com.mx",
-  "cel"   : "(272)190 8413",
-  "social": {
-    "face": "^2.8.5",
-    "x": "^4.18.2"
-  }
+  "name" : "Jorge Vera",
+"charges": "Data analyst",
+"objetive":"Creating viz for everyone",
+"photo":"https://liga...../.....",
+"email" : "correo@personal.com",
+"cel" : "2727038197",
+"ubication": "Orizaba Mex.",
+"social": "@jorgeaveraf"
 }
