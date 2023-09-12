@@ -21,4 +21,10 @@ app.listen(port,  () =>
 	console.log('listening on port ' + port
 ));
 
-//equis
+app.get('/work', (req, res, next) => {
+	res.sendfile("assets/workE.json");
+  });
+
+  app.get('/skills', (req, res, next) => {
+	res.sendfile("assets/skills.json");
+  });

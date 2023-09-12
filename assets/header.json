@@ -1,12 +1,11 @@
 {
   "name" : "Jorge Vera",
-"charges": "Data analyst",
-"objetive":"Creating viz for everyone",
-"photo":"https://liga...../.....",
+"title": "Data analyst",
+"objective":"Creating viz for everyone",
+"photo":"https://avatars.githubusercontent.com/u/112434926?v=4",
 "email" : "correo@personal.com",
-"cel" : "2727038197",
-"ubication": "Orizaba Mex.",
+"phone" : "2727038197",
+"location": "Orizaba Mex.",
 "social": "@jorgeaveraf"
 }
 
-//equis
