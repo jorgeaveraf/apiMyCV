@@ -28,3 +28,11 @@ app.get('/work', (req, res, next) => {
   app.get('/skills', (req, res, next) => {
 	res.sendfile("assets/skills.json");
   });
+
+  app.get('/certificates', (req, res, next) => {
+    res.sendfile("assets/certificates.json");
+    });
+
+    app.get('/interests', (req, res, next) => {
+      res.sendfile("assets/interests.json");
+      });
