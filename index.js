@@ -36,3 +36,12 @@ app.get('/work', (req, res, next) => {
     app.get('/interests', (req, res, next) => {
       res.sendfile("assets/interests.json");
       });
+
+app.get('/1a_dev_hours.json', (req, res, next) => {
+  res.sendfile("assets/1a_dev_hours.json");
+  });
+
+  app.get('/1b_dev_hours.json', (req, res, next) => {
+    res.sendfile("assets/1b_dev_hours.json");
+    });
+
