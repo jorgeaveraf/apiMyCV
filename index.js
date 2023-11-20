@@ -37,12 +37,12 @@ app.get('/work', (req, res, next) => {
       res.sendfile("assets/interests.json");
       });
 
-app.get('/1a_dev_hours.json', (req, res, next) => {
+app.get('/1a_dev_hours', (req, res, next) => {
   res.sendfile("assets/1a_dev_hours.json");
   });
 
-  app.get('/1a_proxy_size.json', (req, res, next) => {
-    res.sendfile("assets/11a_proxy_size.json");
+  app.get('/1a_proxy_size', (req, res, next) => {
+    res.sendfile("assets/1a_proxy_size.json");
     });
   
     app.get('/3a-test1', (req, res, next)=>{
